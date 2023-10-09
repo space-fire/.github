@@ -1,4 +1,4 @@
-# F.I.R.E
+# F.I.R.E.
 
 NASA Space Apps Team
 https://www.spaceappschallenge.org/2023/find-a-team/fire/
